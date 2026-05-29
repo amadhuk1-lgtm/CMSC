@@ -1,0 +1,218 @@
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 1
+**Insert Line**
+Enter text: First
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 1
+**Insert Line**
+Inserts line before chosen line number
+1: First
+Enter line number: 
+0
+Must be between 1 and 2
+1: First
+Enter line number: 
+3
+Must be between 1 and 2
+1: First
+Enter line number: 
+1
+Enter text: New First
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 4
+**Display Document**
+1: New First
+2: First
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 1
+**Insert Line**
+Inserts line before chosen line number
+1: New First
+2: First
+Enter line number: 
+3
+Enter text: Second
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 1
+**Insert Line**
+Inserts line before chosen line number
+1: New First
+2: First
+3: Second
+Enter line number: 
+2
+Enter text: Between New First and First
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 4
+**Display Document**
+1: New First
+2: Between New First and First
+3: First
+4: Second
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 2
+**Delete Line**
+1: New First
+2: Between New First and First
+3: First
+4: Second
+Enter line number: 
+0
+Must be between 1 and 4
+1: New First
+2: Between New First and First
+3: First
+4: Second
+Enter line number: 
+5
+Must be between 1 and 4
+1: New First
+2: Between New First and First
+3: First
+4: Second
+Enter line number: 
+1
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 3
+**Edit Line**
+1: Between New First and First
+2: First
+3: Second
+Enter line number: 
+1
+Enter new text: First
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 3
+**Edit Line**
+1: First
+2: First
+3: Second
+Enter line number: 
+2
+Enter new text: Second
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 3
+**Edit Line**
+1: First
+2: Second
+3: Second
+Enter line number: 
+3
+Enter new text: Third
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 4
+**Display Document**
+1: First
+2: Second
+3: Third
+
+--- Simple Text Editor ---
+1. Insert Line
+2. Delete Line
+3. Edit Line
+4. Display Document
+5. Search Word
+6. Save to File
+7. Load from File
+8. Exit
+Enter your choice: 8
+Thank you for using the UMBC Text Editor
