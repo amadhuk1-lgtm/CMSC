@@ -1,4 +1,0 @@
-Current board:
- X _ _
- O O O
- _ _ X
