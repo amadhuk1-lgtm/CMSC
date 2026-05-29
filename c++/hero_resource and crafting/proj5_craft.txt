@@ -1,0 +1,21 @@
+Fire|Log|None|None|None|
+Cooked Fish|Raw Fish|Fire|None|None|
+Bread|Grain|Fire|None|None|
+Anvil|Iron Ore|Coal|Fire|None|
+Nails|Iron Ore|Coal|Fire|None|
+Needle|Iron Ore|Coal|Fire|None|
+Spinning Wheel|Log|Knife|Nails|None|
+Stew|Vegetable|Meat|Fire|None|
+Knife|Copper Ore|Anvil|Hammer|None|
+Hammer|Iron Ore|Log|None|None|
+Iron Dagger|Iron Ore|Coal|Anvil|Hammer|
+Gemmed Amulet|Iron Ore|Gemstone|Anvil|Hammer|
+Leather Gloves|Leather|Needle|Flax|None|
+Bowstring|Flax|Spinning Wheel|None|None|
+Hide Armor|Hide|Flax|Needle|None|
+Shortbow|Log|Knife|Bowstring|None|
+Oak Longbow|Oak Log|Knife|Bowstring|None|
+Arrows|Log|Knife|Feather|Bone|
+Wooden Chair|Log|Nails|Hammer|None|
+Oak Table|Oak Log|Nails|Hammer|None|
+Weapon Rack|Oak Log|Copper Ore|Hammer|None|

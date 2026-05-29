@@ -1,0 +1,1034 @@
+Loading file: proj5_map1.txt
+
+Welcome to UMBC Runescape!
+Hero Name: JD
+
+Rocky Area
+You are standing on a rocky outcropping surrounded by lava. The heat is oppressive. The only exit appears to be to an area to the east.
+Possible Exits: E
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+1
+
+Rocky Area
+You are standing on a rocky outcropping surrounded by lava. The heat is oppressive. The only exit appears to be to an area to the east.
+Possible Exits: E
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+2
+Which direction? (N E S W)
+Which direction? (N E S W)
+Which direction? (N E S W)
+e
+
+Lava Area
+The rocks are warm to the touch which makes sense as you are standing on a slightly elevated area surrounded by lava. There is an area back to the west.
+Possible Exits: W
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+1
+You mined and found some Gemstone!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+1
+You mined and found some Coal!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+5
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+3
+You searched and harvested some Vegetable!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+4
+You went hunting and got some Hide!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+4
+You went hunting and got some Bone!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and found nothing.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Oak Log!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Flax!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and found nothing.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Oak Log!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Flax!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and found nothing.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Oak Log!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Log!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+2
+Cannot craft Cooked Fish. Missing requirements.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+1
+Crafted: Fire!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+20
+Cannot craft Oak Table. Missing requirements.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+3
+You searched and harvested some Meat!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+3
+You searched and harvested some Grain!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+3
+You searched and harvested some Raw Fish!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+19
+Cannot craft Wooden Chair. Missing requirements.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+5
+******* INVENTORY *******
+Bone:1
+Coal:1
+Fire:1
+Raw Fish:1
+Flax:2
+Gemstone:1
+Grain:1
+Herb:6
+Hide:1
+Log:0
+Meat:1
+Oak Log:3
+Vegetable:1
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+3
+Crafted: Bread!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+5
+******* INVENTORY *******
+Bone:1
+Bread:1
+Coal:1
+Fire:0
+Raw Fish:1
+Flax:2
+Gemstone:1
+Grain:0
+Herb:6
+Hide:1
+Log:0
+Meat:1
+Oak Log:3
+Vegetable:1
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+2
+Which direction? (N E S W)
+w
+
+Rocky Area
+You are standing on a rocky outcropping surrounded by lava. The heat is oppressive. The only exit appears to be to an area to the east.
+Possible Exits: E
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+21
+Cannot craft Weapon Rack. Missing requirements.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+1
+Cannot craft Fire. Missing requirements.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+1
+You mined and found some Copper Ore!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Oak Log!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Log!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+1
+Crafted: Fire!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+10
+Cannot craft Hammer. Missing requirements.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+4
+Cannot craft Anvil. Missing requirements.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Herb!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Log!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+2
+You searched and harvested some Flax!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+10
+Cannot craft Hammer. Missing requirements.
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+1
+You mined and found some Gemstone!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+1
+You mined and found some Coal!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+1
+You mined and found some Copper Ore!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+1
+You mined and found some Copper Ore!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+3
+What would you like to look for?
+1. Raw Materials (Mining)
+2. Natural Resources (Woodcutting/Foraging)
+3. Food (Fishing/Farming)
+4. Hunt
+1
+You mined and found some Iron Ore!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+4
+Which item would you like to craft?
+1. Fire
+2. Cooked Fish
+3. Bread
+4. Anvil
+5. Nails
+6. Needle
+7. Spinning Wheel
+8. Stew
+9. Knife
+10. Hammer
+11. Iron Dagger
+12. Gemmed Amulet
+13. Leather Gloves
+14. Bowstring
+15. Hide Armor
+16. Shortbow
+17. Oak Longbow
+18. Arrows
+19. Wooden Chair
+20. Oak Table
+21. Weapon Rack
+10
+Crafted: Hammer!
+What would you like to do?
+1. Look
+2. Move
+3. Use Area
+4. Craft Item
+5. Display Inventory
+6. Quit
+6
+Good bye!
